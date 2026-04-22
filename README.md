@@ -1,4 +1,9 @@
 # DemandForge AI: Advanced Demand Forecasting System
+<img width="1920" height="877" alt="Screenshot 2026-04-22 092048" src="https://github.com/user-attachments/assets/ef6423db-93da-45b5-8578-c4c68c4ad100" />
+<img width="1914" height="865" alt="Screenshot 2026-04-22 092457" src="https://github.com/user-attachments/assets/c4594ea1-5cf6-4bd3-b0ed-12d6bc2a7838" />
+<img width="1920" height="861" alt="Screenshot 2026-04-22 092420" src="https://github.com/user-attachments/assets/1b83efb2-b4aa-4a0e-9d55-4bcaea16c070" />
+<img width="1890" height="872" alt="Screenshot 2026-04-22 092554" src="https://github.com/user-attachments/assets/56412ee4-e9c5-4b0b-a134-209348b167be" />
+<img width="1918" height="870" alt="Screenshot 2026-04-22 092629" src="https://github.com/user-attachments/assets/a1e7004e-f187-42d9-86e4-f2dd37ec212b" />
 
 ## Project Overview
 DemandForge is a production-level forecasting system designed for quick-commerce (like Zepto/Blinkit) to optimize inventory across multiple stores.
